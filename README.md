@@ -1,1 +1,3 @@
 # webSiteWork
+
+Example of website
