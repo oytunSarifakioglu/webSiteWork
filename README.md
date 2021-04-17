@@ -1,3 +1,3 @@
 # webSiteWork
 
-Example of website
+Example of website UI
